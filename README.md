@@ -1,6 +1,6 @@
 # XYZ
 
-pkg update && pkg upgrade
+pkg update && pkg upgrade\n
 pkg install python
 pkg install git
 pip install --upgrade pip
