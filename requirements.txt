@@ -1,5 +1,4 @@
 requests
 rich
 bs4
-lolcat
 futures
